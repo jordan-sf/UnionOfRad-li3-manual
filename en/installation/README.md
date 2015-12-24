@@ -46,7 +46,7 @@ webservers are described at the end of this guide.
 ### Permissions
 
 The framework will need write access to the `app/resources/tmp` as it used to store cached versions of
-already compiled templates or logs. The webserver use must be able to write to this directory.
+already compiled templates or logs. The webserver you use must be able to write to this directory.
 
 ### Starting the Webserver
 
