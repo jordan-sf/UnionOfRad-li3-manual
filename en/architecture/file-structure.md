@@ -69,7 +69,7 @@ More on routes later, but this file should house all such configuration informat
 
 ## Controllers
 
-Application controllers are housed here. Each controller is named in CamelCase, plural format (i.e. `PostsController.php`), and placed here.
+Application controllers are housed here. Each controller is CamelCased, plural format (i.e. `PostsController.php`), and placed here.
 
 ## Extensions
 
