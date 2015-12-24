@@ -21,7 +21,7 @@ The `config` folder contains three main pieces: bootstrap files, your connection
 
 ### Bootstrapping 
 
-The main bootstrap file in the config folder is `bootstrap.php`. This file is the second file PHP will execute in any request cycle, and it loads up the li3 framework along with any other extras that you define there. As such, it's a great place to place initial application configuration.
+The main bootstrap file in the config folder is `bootstrap.php`. This file is the second file PHP will execute in any request cycle, and it loads up the li3 framework along with any other extras that you define there. As such, it's a great place to put initial application configuration.
 
 The best practice for bootstrapping parts of your application is by writing specific bootstrap files and placing them in `config/bootstrap/filename.php`. Once written, include the configuration into the main bootstrap file:
 
