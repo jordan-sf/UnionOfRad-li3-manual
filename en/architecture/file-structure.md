@@ -97,7 +97,7 @@ If you've got some proprietary database, and it's result objects or query struct
 
 ### Helper
 
-Custom view helpers are common need. These classes should extend `lithium\template\Helper` and be placed in this folder. 
+Custom view helpers are commonly needed. These classes should extend `lithium\template\Helper` and be placed in this folder. 
 
 ## Libraries
 
